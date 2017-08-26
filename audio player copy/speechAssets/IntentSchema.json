@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "intent": "PlayAirHorn"
+    },
+    {
+      "intent": "PlayTriple"
+    },
+    {
+      "intent": "PlaySadViolin"
+    },
+    {
+      "intent": "PlayYee"
+    },
+    {
+      "intent": "PlayWombo"
+    },
+    {
+      "intent": "PlayDance"
+    },
+    {
+      "intent": "PlayPrank"
+    },
+    {
+      "intent": "PlayIlluminati"
+    },
+    {
+      "intent": "PlayKazoo"
+    },
+    {
+      "intent": "PlayPlease"
+    },
+    {
+      "intent": "PlaySanic"
+    },
+    {
+      "intent": "PlayNotOK"
+    },
+    {
+      "intent": "PlayWowWink"
+    },
+    {
+      "intent": "PlayYeahBoy"
+    },
+    {
+      "intent": "PlayRoundabout"
+    }
+  ]
+}
